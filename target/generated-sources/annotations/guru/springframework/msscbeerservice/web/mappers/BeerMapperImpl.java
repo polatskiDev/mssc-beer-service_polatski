@@ -7,8 +7,8 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-02-07T22:28:14+0100",
-    comments = "version: 1.5.3.Final, compiler: javac, environment: Java 11.0.17 (OpenLogic)"
+    date = "2023-02-08T16:35:07+0100",
+    comments = "version: 1.5.3.Final, compiler: javac, environment: Java 11.0.11 (OpenLogic)"
 )
 public class BeerMapperImpl implements BeerMapper {
 
